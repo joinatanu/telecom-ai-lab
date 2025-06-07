@@ -1,1 +1,5 @@
-
+[
+  {"CustomerID": "C1001", "Date": "2024-04-01", "ChangeType": "Add", "Seats": 5},
+  {"CustomerID": "C1002", "Date": "2024-04-01", "ChangeType": "Remove", "Seats": 3},
+  {"CustomerID": "C1003", "Date": "2024-04-01", "ChangeType": "None", "Seats": 0}
+]
