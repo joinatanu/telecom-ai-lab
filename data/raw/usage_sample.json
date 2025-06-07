@@ -1,1 +1,5 @@
-
+[
+  {"CustomerID": "C1001", "UsageDate": "2024-04-01", "UsageMinutes": 120.5, "FeatureUsed": "Video"},
+  {"CustomerID": "C1002", "UsageDate": "2024-04-02", "UsageMinutes": 15.2, "FeatureUsed": "Chat"},
+  {"CustomerID": "C1003", "UsageDate": "2024-04-03", "UsageMinutes": 95.0, "FeatureUsed": "Email"}
+]
